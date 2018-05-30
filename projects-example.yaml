@@ -1,0 +1,6 @@
+- name: awesomeProject
+  id: 42
+  token: abcTOKENabcDEfghiV
+  dependencies:
+    - groupId: com.group
+      artifactId: some-library
